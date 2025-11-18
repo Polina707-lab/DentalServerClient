@@ -1,9 +1,17 @@
 .idea/
 .vscode/
+*.iml
+
+.project
+.classpath
+.settings/
+
+bin/
 out/
 target/
-bin/
 *.class
+
+# Logs
 *.log
 
 data/
@@ -13,5 +21,10 @@ data/
 .DS_Store
 Thumbs.db
 
-*.iml
 *.swp
+*.bak
+*.tmp
+
+*.zip
+*.jar
+
